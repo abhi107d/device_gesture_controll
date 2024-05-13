@@ -1,7 +1,7 @@
-# Gesture-Controlled Home Appliance System
+# Gesture-Controlled Devices
 
 ## Overview
-The Gesture-Controlled Home Appliance System is an innovative project aimed at enhancing the user experience in controlling household appliances using gestures. This system leverages motion sensors and machine learning algorithms to interpret hand gestures, allowing users to interact with their appliances without physical contact or the need for remote controls.
+Turn on or off your devices with hand gesture
 
 ## Requirements
 - Python 3.x
